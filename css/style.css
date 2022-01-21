@@ -71,3 +71,30 @@ font-family: 'Poppins', sans-serif;  */
     color: white;
     padding-left: 5px;
 }
+
+.third-section{
+    overflow-x: hidden;
+}
+
+.category-boxes > div{
+    /* min-width: 30%; */
+    border-radius: 10px;
+    height: 120px;
+}
+
+.category-bg-1{
+    background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
+}
+.category-bg-2{
+    background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
+}
+.category-bg-3{
+   background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
+}
+
+.caregory-name{
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 36px;
+    color: white;
+}
